@@ -1,0 +1,26 @@
+body {
+	background: #ccc;
+}
+.slider-img	{
+	width:900px;
+	height: 600px;
+	display: block;
+	-webkit-box-sizing: 0px 0px 0px 10px rgba(0,0,0,1);
+	-moz-box-sizing: 0px 0px 0px 10px rgba(0,0,0,1);
+	box-sizing: 0px 0px 0px 10px rgba(0,0,0,1);
+	margin: 30px auto;
+}
+
+.conteiner-img {
+
+}
+
+.image {
+
+}
+.back {
+
+}
+.next {
+
+}
